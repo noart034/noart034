@@ -6,7 +6,7 @@
 
 🔭 Atualmente trabalhando em
 
-Desenvolvimento de jogos 2D no Scratch, com foco em:
+Desenvolvimento de jogos 2D no godot, com foco em:
 
 Física de movimento (pulo, gravidade, aceleração)
 
@@ -14,7 +14,7 @@ Sistema de estados e animações
 
 Jogos de ritmo inspirados em Arcaea
 
-Criação de um jogo 3D medieval utilizando Godot
+Criação de um jogo 3D contemporaneo utilizando Godot
 
 Desenvolvimento de um site portfólio para estúdio de games (HTML, CSS, JS)
 
